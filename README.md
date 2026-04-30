@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Celal Demirsoy
 
-🎓 Computer Engineering Student @ Istanbul Esenyurt University (GPA: 3.52/4.00)  
+🎓 Computer Engineering Student @ Istanbul Esenyurt University   
 🤖 Specializing in **Artificial Intelligence & Computer Vision**  
 🌍 Erasmus+ Alumni — Romania  
 
 ### 🔭 Currently Working On
-- Real-time clothing detection system using **YOLOv8** (92% mAP, 30 FPS)
-- Japan-Turkey Youth Exchange Project
+- Real-time clothing detection system using **YOLOv8 and Yolov11** (92% mAP, 30 FPS)
+
 
 ### 🛠️ Tech Stack
 `Python` `PyTorch` `YOLOv8` `OpenCV` `NumPy` `Scikit-learn` `JavaScript` `C++`
